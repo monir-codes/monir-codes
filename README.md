@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <i>"Building scalable web solutions, one line of code at a time — all from my mobile device."</i>
+    <i>"Building scalable web solutions, one line of code at a time — "</i>
   </p>
 </div>
 
