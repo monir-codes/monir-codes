@@ -1,43 +1,62 @@
-# Hello, I'm MD. Moniruzzaman (Rumman) 👋
+<div align="center">
+  <h1>Hi, I'm Rumman! 👨‍💻</h1>
+  <h3>Full-Stack Developer | MERN Stack Specialist</h3>
+  
+  <p align="center">
+    <a href="https://github.com/monir-codes">
+      <img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Monir's Stats" />
+    </a>
+  </p>
 
-I am a **Full-Stack Web Developer** specializing in building scalable and user-centric digital solutions using the **MERN stack**. I am passionate about crafting clean, efficient code and creating seamless user experiences.
-
----
-
-### 🚀 Technical Expertise
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+  <p>
+    <i>"Building scalable web solutions, one line of code at a time — all from my mobile device."</i>
+  </p>
+</div>
 
 ---
 
-### 🛠 Featured Projects
+### 🚀 Featured Projects
+*Modern web applications built with performance and user experience in mind.*
 
-* **[Quiz for Coders](https://github.com/your-username/quiz-for-coders):** An interactive web application designed to help MERN stack developers practice interview questions.
-    * *Built entirely using mobile development workflows.*
-* **[Prompt Bangla](https://promptbangla.blogspot.com/):** A curated platform for AI prompt engineering tailored for the Bengali-speaking community.
-
----
-
-### 📈 GitHub Stats
-
-![Rumman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=radical&hide_border=true&count_private=true)
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **[Quiz for Coders](https://github.com/monir-codes/Quiz-for-Coders)** | Interactive MERN interview prep tool. | React, Node, MongoDB |
+| **[Eco-Track](https://github.com/monir-codes/EcoTrack---Sustainable-Living-Community)** | Sustainable living community tracker. | MERN, Tailwind |
+| **[Smart Deals](https://github.com/monir-codes/Smart-Deals)** | Intelligent deals & marketplace platform. | MERN, JWT, Redux |
 
 ---
 
-### 📬 Connect With Me
+### 🛠 Tech Stack
 
-I am always open to discussing new projects, creative ideas, or opportunities.
+**Core Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,tailwind,git,vscode" />
+</div>
 
-* **LinkedIn:** [https://www.linkedin.com/in/moniruzzaman-rumman/]
-* **Portfolio/Blog:** [https://monir-uzzaman.vercel.app]
-* **Email:** [monir.webdev@gmail.com]
+**Design, Animation & SEO**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,wordpress" />
+  <img src="https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SEO-FFB000?style=for-the-badge&logo=google&logoColor=black" />
+</div>
 
 ---
-*Driven by innovation and committed to excellence in web development.*
+
+### 📈 Development Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monir-codes&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Let's Collaborate</h3>
+  <a href="https://monir-uzzaman.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/moniruzzaman-rumman/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+---
+<div align="center">
+  <sub>© 2026 MD. Moniruzzaman. Built with code & coffee.</sub>
+</div>
