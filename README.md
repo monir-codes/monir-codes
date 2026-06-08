@@ -64,8 +64,9 @@ Advanced digital ecosystems featuring high-converting sales pipelines, stateful 
 ## 📊 Live Metrics & Code Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=dark&bg_color=050B07&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=A3B3AA" alt="GitHub Stats" max-width="100%" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=dark&bg_color=050B07&hide_border=true&title_color=00FF7F&text_color=A3B3AA" alt="Top Languages" max-width="100%" width="350" />
+ <img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=tokyonight&bg_color=050B07&title_color=00FF7F&icon_color=00FF7F&text_color=A3B3AA&hide_border=true" alt="NextGen Devs GitHub Stats" max-width="100%" width="400" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=tokyonight&bg_color=050B07&title_color=00FF7F&text_color=A3B3AA&hide_border=true" alt="NextGen Devs Top Languages" max-width="100%" width="350" />
   
   <br /><br />
   
