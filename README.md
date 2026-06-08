@@ -1,4 +1,3 @@
-````html
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=MD.+MONIRUZZAMAN+(RUMMAN);Full-Stack+Software+Engineer;Founder+%40+NextGen+Devs;Building+Scalable+SaaS+Products" />
@@ -159,4 +158,3 @@ Advanced analytics and management platform featuring dashboards, reporting syste
 ### "Great software is built through clarity, consistency, and craftsmanship."
 
 </div>
-```
