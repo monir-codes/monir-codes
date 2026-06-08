@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/rendering?type=waving&color=050B07&height=220&section=header&text=MD.%20Moniruzzaman%20(Rumman)&fontSize=26&fontColor=00FF7F&animation=twinkling" alt="NextGen Devs Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/rendering?type=waving&color=050B07&height=220&section=header&text=MD.%20Moniruzzaman%20%28Rumman%29&fontSize=26&fontColor=00FF7F&animation=twinkling" alt="NextGen Devs Banner" width="100%" />
 
   <br />
 
