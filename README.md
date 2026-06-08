@@ -147,14 +147,6 @@ Advanced analytics and management platform featuring dashboards, reporting syste
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=monir-codes&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ### "Great software is built through clarity, consistency, and craftsmanship."
 
 </div>
