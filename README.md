@@ -80,9 +80,9 @@ Advanced analytics and management platform featuring dashboards, reporting syste
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monir-codes&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monir-codes&theme=github_dark" />
 
 </div>
 
