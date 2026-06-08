@@ -64,13 +64,22 @@ Advanced digital ecosystems featuring high-converting sales pipelines, stateful 
 ## 📊 Live Metrics & Code Analytics
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=tokyonight&bg_color=050B07&title_color=00FF7F&icon_color=00FF7F&text_color=A3B3AA&hide_border=true" alt="NextGen Devs GitHub Stats" max-width="100%" width="400" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=tokyonight&bg_color=050B07&title_color=00FF7F&text_color=A3B3AA&hide_border=true" alt="NextGen Devs Top Languages" max-width="100%" width="350" />
+  <table border="0" cellpadding="5" cellspacing="0" width="100%">
+    <tr align="center">
+      <td>
+        <img src="https://img.shields.io/github/commits-since/monir-codes/v1.0.0.svg?style=for-the-badge&label=⚡+TOTAL+COMMITS&color=00FF7F&labelColor=050B07" alt="Live Commits" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/directory-structure/template/monir-codes?style=for-the-badge&label=📂+PUBLIC+REPOS&color=00FF7F&labelColor=050B07" alt="Live Repos" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
   
-  <br /><br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monir-codes&theme=github-dark-green&bg_color=050B07&color=00FF7F&line=00FF7F&point=A3B3AA&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monir-codes&theme=github-dark-green&bg_color=050B07&color=00FF7F&line=00FF7F&point=A3B3AA&area=true&hide_border=true" width="100%" alt="NextGen Devs Live Activity Graph" />
+
 </div>
 
 ---
