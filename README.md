@@ -1,14 +1,15 @@
 <div align="center">
   
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=100&lines=MD.+MONIRUZZAMAN+(RUMMAN);NEXTGEN+DEVS+FOUNDER" alt="NextGen Devs Banner" width="100%" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=1000&height=100&lines=MD.+MONIRUZZAMAN+(RUMMAN);NEXTGEN+DEVS+FOUNDER" alt="NextGen Devs Banner" width="100%" />
+  </p>
+
   <br />
 
   <h1>🚀 Architecting Production-Grade Full-Stack Applications</h1>
 
   <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&lines=Next.js++%2B+TypeScript+Engineer;MERN+Stack+Architecture;SaaS+%26+B2B+Platform+Expert;Clean+Code+Craftsman" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&height=40&lines=Next.js++%2B+TypeScript+Engineer;MERN+Stack+Architecture;SaaS+%26+B2B+Platform+Expert;Clean+Code+Craftsman" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -65,20 +66,14 @@ Advanced digital ecosystems featuring high-converting sales pipelines, stateful 
 
 <div align="center">
   
-  <table border="0" cellpadding="5" cellspacing="0" width="100%">
-    <tr align="center">
-      <td>
-        <img src="https://img.shields.io/github/commits-since/monir-codes/v1.0.0.svg?style=for-the-badge&label=⚡+TOTAL+COMMITS&color=00FF7F&labelColor=050B07" alt="Live Commits" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/github/directory-structure/template/monir-codes?style=for-the-badge&label=📂+PUBLIC+REPOS&color=00FF7F&labelColor=050B07" alt="Live Repos" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/monir-codes?style=for-the-badge&label=👥+FOLLOWERS&color=00FF7F&labelColor=050B07" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/monir-codes?style=for-the-badge&label=⭐+TOTAL+STARS&color=00FF7F&labelColor=050B07" alt="Stars" />
+  </p>
 
   <br />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monir-codes&theme=github-dark-green&bg_color=050B07&color=00FF7F&line=00FF7F&point=A3B3AA&area=true&hide_border=true" width="100%" alt="NextGen Devs Live Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=dark&bg_color=050B07&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=A3B3AA" alt="NextGen Devs GitHub Stats" max-width="100%" width="450" />
 
 </div>
 
@@ -100,5 +95,5 @@ If you appreciate strict modular layouts, compile-time type safety, optimized ze
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rumman-dev&color=00FF7F&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=monir-codes&color=00FF7F&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
