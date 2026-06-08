@@ -1,7 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/rendering?type=waving&color=050B07&height=220&section=header&text=MD.%20Moniruzzaman%20%28Rumman%29&fontSize=26&fontColor=00FF7F&animation=twinkling" alt="NextGen Devs Banner" width="100%" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=00FF7F&center=true&vCenter=true&width=1000&height=100&lines=MD.+MONIRUZZAMAN+(RUMMAN);NEXTGEN+DEVS+FOUNDER" alt="NextGen Devs Banner" width="100%" />
+</p>
   <br />
 
   <h1>🚀 Architecting Production-Grade Full-Stack Applications</h1>
