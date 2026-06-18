@@ -118,13 +118,6 @@ Premium SaaS-style developer asset marketplace & learning platform.
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=github_dark" />
-</p>
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -143,9 +136,7 @@ Premium SaaS-style developer asset marketplace & learning platform.
 
 # 🏆 GitHub Trophy
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=monir-codes&theme=darkhub&no-frame=true" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/api?username=monir-codes&theme=darkhub&no-frame=true)
 
 ---
 
