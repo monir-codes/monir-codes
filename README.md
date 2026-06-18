@@ -136,7 +136,9 @@ Premium SaaS-style developer asset marketplace & learning platform.
 
 # 🏆 GitHub Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/api?username=monir-codes&theme=darkhub&no-frame=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/api?username=monir-codes&theme=darkhub&no-frame=true" />
+</p>
 
 ---
 
