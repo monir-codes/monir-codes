@@ -134,14 +134,6 @@ Premium SaaS-style developer asset marketplace & learning platform.
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=monir-codes&theme=darkhub&no-frame=true" />
-</p>
-
----
-
 # 💬 Quote
 
 > “Great software is built with clarity, consistency, and craftsmanship.”
