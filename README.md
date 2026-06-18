@@ -121,9 +121,8 @@ Premium SaaS-style developer asset marketplace & learning platform.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=monir-codes&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=github_dark" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
