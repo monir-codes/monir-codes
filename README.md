@@ -1,152 +1,218 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&height=80&lines=MD.+MONIRUZZAMAN+(RUMMAN);Full-Stack+Software+Engineer;Founder+%40+NextGen+Devs;Building+Scalable+SaaS+Products" />
+<!-- ================= HERO BANNER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:2563EB,100:38BDF8&text=Full-Stack%20MERN%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Md.%20Moniruzzaman&descAlignY=58" />
 
 <br/>
 
-<h3>
-Building modern web applications, scalable SaaS platforms,
-and high-performance digital experiences.
-</h3>
+<!-- ================= TYPING ANIMATION ================= -->
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Next.js+15+%7C+React+%7C+Node.js;Building+Scalable+SaaS+Products;Exploring+AI+Integration;Clean+%26+Production+Ready+Code" />
 
-<img src="https://img.shields.io/badge/Location-Bangladesh-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Speciality-SaaS%20Development-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=58A6FF" />
+</div>
 
-<br/><br/>
+---
 
-<a href="mailto:moniruzzamanrumman@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<!-- ================= ABOUT ================= -->
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am <b>Md. Moniruzzaman</b>, a passionate <b>Full-Stack MERN Developer</b> from <b>Bogura, Bangladesh</b>.
+</p>
+
+<p>
+I specialize in building <b>scalable, production-ready, and modern web applications</b> using MERN Stack and Next.js.  
+I enjoy turning ideas into real-world digital products with clean architecture and performance optimization.
+</p>
+
+<blockquote>
+Focus: Writing maintainable code, building SaaS products, and continuously improving engineering skills.
+</blockquote>
+
+---
+
+<!-- ================= CURRENT ACTIVITIES ================= -->
+
+<h2>🚀 Current Activities</h2>
+
+<ul>
+  <li>🌱 Learning Next.js 15 (App Router Deep Dive)</li>
+  <li>🤖 Exploring AI Integration & Automation</li>
+  <li>💻 Building Full-Stack SaaS Applications</li>
+  <li>⚙ Improving Backend Architecture & System Design</li>
+  <li>🚀 Working on Real-world MERN Projects</li>
+  <li>📚 Practicing Advanced React Patterns</li>
+</ul>
+
+---
+
+<!-- ================= CONTACT ================= -->
+
+<h2>📍 Contact Information</h2>
+
+<ul>
+  <li>📧 Email: <b>Monir.webdev@gmail.com</b></li>
+  <li>🌐 Portfolio: <a href="https://monir-uzzaman.vercel.app/">Visit</a></li>
+  <li>📍 Location: Bogura, Bangladesh</li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/moniruzzaman-rumman/">Profile</a></li>
+  <li>🌐 Facebook: <a href="https://www.facebook.com/mdrumman.mondal">Profile</a></li>
+  <li>🐙 GitHub: <a href="https://github.com/monir-codes">monir-codes</a></li>
+</ul>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<h2>🌐 Connect With Me</h2>
+
+<p>
+
+<a href="mailto:Monir.webdev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/moniruzzaman-rumman">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/moniruzzaman-rumman/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://github.com/monir-codes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://monir-uzzaman.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 👨‍💻 About Me
+<!-- ================= TECH STACK ================= -->
 
-I am a Full-Stack Software Engineer passionate about building scalable, maintainable, and production-ready applications.
+<h2>⚡ Tech Stack</h2>
 
-My primary focus is designing modern SaaS products, architecting robust backend systems, and delivering exceptional user experiences through clean code and thoughtful engineering.
+<h3>Frontend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,framer" />
+</p>
 
-### Areas of Expertise
+<h3>Backend</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
 
-- Full-Stack Application Development
-- Next.js & React Architecture
-- TypeScript Engineering
-- REST API Development
-- MongoDB Database Design
-- Authentication & Authorization
-- SaaS Platform Development
-- Performance Optimization
-- Responsive UI Systems
-- Software Architecture
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,firebase,tailwind,git,github,vscode" />
-
-</div>
+<h3>Tools & Platforms</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+<!-- ================= SKILLS ================= -->
 
-### NextGen Devs
+<h2>🧠 Skills Highlights</h2>
 
-Modern software agency platform focused on scalable architecture, premium user experience, and enterprise-grade development workflows.
-
-### Quiz For Coders
-
-Interactive coding assessment platform designed to help developers improve technical interview performance.
-
-### Eco Track
-
-Advanced analytics and management platform featuring dashboards, reporting systems, and administrative workflows.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monir-codes&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monir-codes&theme=github_dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=monir-codes&theme=github-dark-blue&hide_border=true" />
-
-</div>
+<ul>
+  <li>REST API Development</li>
+  <li>JWT Authentication & Authorization</li>
+  <li>Firebase Authentication</li>
+  <li>MongoDB Schema Design</li>
+  <li>Full-Stack Architecture</li>
+  <li>React Query / TanStack Query</li>
+  <li>Responsive UI Development</li>
+  <li>Framer Motion Animations</li>
+  <li>Deployment (Vercel / Netlify)</li>
+  <li>SEO Basics</li>
+</ul>
 
 ---
 
-# 📈 Contribution Activity
+<!-- ================= PROJECTS ================= -->
 
-<div align="center">
+<h2>🚀 Featured Projects</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monir-codes&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<h3>🌱 EcoTrack</h3>
+<p>Sustainable living community platform.</p>
+<p>🔗 Live: https://ecotrack-monir.vercel.app/</p>
 
-</div>
+<h3>🎓 eTuitionBD</h3>
+<p>Smart tuition matching platform.</p>
+<p>🔗 Live: https://etuitionbd-monir.netlify.app/</p>
+
+<h3>🎯 EduFlex</h3>
+<p>Premium developer asset marketplace.</p>
+<p>🔗 Live: https://eduflex-next.vercel.app/</p>
 
 ---
 
-# 🐍 Contribution Snake
+<!-- ================= ANALYTICS ================= -->
 
-<div align="center">
+<h2>📊 GitHub Analytics</h2>
 
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=github_dark" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+<!-- ================= STREAK ================= -->
+
+<h2>🔥 GitHub Streak</h2>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=monir-codes&theme=github-dark-blue" />
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+<h2>📈 Contribution Graph</h2>
+
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monir-codes&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" />
+</p>
+
+---
+
+<!-- ================= SNAKE ================= -->
+
+<h2>🐍 Contribution Snake</h2>
+
+<p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🛠 Current Focus
-
-```txt
-→ Building Scalable SaaS Applications
-→ Advanced Next.js Architectures
-→ TypeScript Ecosystem
-→ MongoDB Aggregation Pipelines
-→ Clean Software Architecture
-→ Modern UI Engineering
-````
+</p>
 
 ---
 
-# 🌐 Connect With Me
+<!-- ================= TROPHY ================= -->
+
+<h2>🏆 GitHub Trophy</h2>
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=monir-codes&theme=darkhub" />
+</p>
+
+---
+
+<!-- ================= FOOTER ================= -->
 
 <div align="center">
 
-<a href="mailto:moniruzzamanrumman@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<h2>💬 Quote</h2>
 
-<a href="https://linkedin.com/in/moniruzzaman-rumman">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+<blockquote>
+Great software is built with clarity, consistency, and craftsmanship.
+</blockquote>
 
 <br/>
 
-<div align="center">
-
-### "Great software is built through clarity, consistency, and craftsmanship."
+<h3>Thanks for visiting 🚀 | Happy Coding 💻✨</h3>
 
 </div>
