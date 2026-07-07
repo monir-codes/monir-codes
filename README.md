@@ -40,7 +40,6 @@ I enjoy transforming ideas into real-world digital products with clean architect
 - 📍 Location: Bogura, Bangladesh
 - 💼 LinkedIn: https://www.linkedin.com/in/moniruzzaman-rumman/
 - 🌐 Facebook: https://www.facebook.com/mdrumman.mondal
-- 🐙 GitHub: https://github.com/monir-codes
 
 ---
 
