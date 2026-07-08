@@ -87,13 +87,21 @@ I'm a **Full-Stack MERN Developer** based in Bogura, Bangladesh, focused on buil
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB&text_color=C9D1D9&cache_seconds=1800" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&cache_seconds=1800" width="49%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img src="https://streak-stats.demolab.com?user=monir-codes&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=monir-codes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF" width="49%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=github_dark&hide_border=true" />
 
-<img src="https://raw.githubusercontent.com/monir-codes/monir-codes/output/github-contribution-grid-snake-dark.svg" width="98%" />
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=monir-codes&theme=github-dark&hide_border=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=monir-codes&theme=github-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF" />
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/monir-codes/monir-codes/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
