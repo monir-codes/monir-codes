@@ -33,35 +33,20 @@ I'm a **Full-Stack MERN Developer** based in Bogura, Bangladesh, focused on buil
 
 ## 🎯 Current Focus
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **Engineering**
 - Next.js App Router architecture
 - TypeScript adoption across projects
 - Authentication & security best practices
 - Performance optimization (Core Web Vitals)
 
-</td>
-<td width="50%" valign="top">
-
 **Emerging**
 - AI integration with Gemini & OpenAI APIs
 - Scalable backend patterns with Node/Express
 - Modern, component-driven UI systems
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
 
 **Languages**
 
@@ -73,9 +58,6 @@ I'm a **Full-Stack MERN Developer** based in Bogura, Bangladesh, focused on buil
 
 `Tailwind CSS` `DaisyUI` `shadcn/ui` `Framer Motion` `React Router` `TanStack Query` `Axios`
 
-</td>
-<td valign="top" width="50%">
-
 **Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
@@ -86,15 +68,9 @@ I'm a **Full-Stack MERN Developer** based in Bogura, Bangladesh, focused on buil
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 
-</td>
-</tr>
-</table>
-
 <br/>
 
 ## 💼 Core Skills
-
-<div align="center">
 
 | Category | Skills |
 |---|---|
@@ -104,8 +80,6 @@ I'm a **Full-Stack MERN Developer** based in Bogura, Bangladesh, focused on buil
 | **Frontend Engineering** | React · Next.js · Responsive Design · Performance Optimization |
 | **Architecture & Quality** | Clean Architecture · SEO |
 | **Workflow** | Git · Deployment (Vercel / Netlify) |
-
-</div>
 
 <br/>
 
@@ -127,10 +101,6 @@ I'm a **Full-Stack MERN Developer** based in Bogura, Bangladesh, focused on buil
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="100%">
-
 ### 🎓 SSC Tutor AI
 An AI-powered tutoring platform built to help SSC-level students learn through interactive, personalized study support rather than static content.
 
@@ -141,41 +111,41 @@ An AI-powered tutoring platform built to help SSC-level students learn through i
 <a href="https://ssc-tutor-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/monir-codes/SSC-Tutor-AI"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
 
-</td>
-</tr>
-
-<tr>
-<td width="100%">
+---
 
 ### 📚 EduFlex
-A modern learning management platform designed around flexible course delivery, structured content organization, and a smooth student experience.
+A premium, SaaS-style developer asset marketplace and learning platform — built around a polished, product-grade experience rather than a typical course-listing site.
 
-**Key Features:** Structured course architecture · Responsive dashboard · Optimized navigation flow
+**Key Features:** Secure Firebase-based auth · Asset/course marketplace flow · Smooth motion-driven UI
 
-**Tech Stack:** `Next.js` `React` `Tailwind CSS` `Node.js` `MongoDB`
+**Tech Stack:** `Next.js` `Firebase Auth` `Tailwind CSS` `Framer Motion` `Vercel`
 
 <a href="https://eduflex-next.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/monir-codes/EduFlex"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="100%">
+### 🏫 eTuitionBD
+A smart tuition matching and management platform connecting students with tutors — with secure authentication and built-in payment handling for a complete end-to-end booking flow.
+
+**Key Features:** Smart tutor–student matching · Stripe-powered payments · Firebase authentication · Animated, responsive UI
+
+**Tech Stack:** `React (Vite)` `Node.js` `Express` `MongoDB` `Firebase` `Stripe` `Framer Motion`
+
+<a href="https://etuitionbd-monir.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://github.com/monir-codes/eTuitionBD"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
+
+---
 
 ### 🌱 EcoTrack — Sustainable Living Community
 A community-driven platform that helps users track eco-friendly habits, join sustainability challenges, and measure their environmental impact together.
 
-**Key Features:** Challenge & progress tracking · Community engagement tools · Full CRUD with validated REST API
+**Key Features:** Challenge & progress tracking · Community engagement tools · Full CRUD with validated REST API · Firebase-backed features
 
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `REST API`
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Firebase`
 
 <a href="https://ecotrack-monir.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/monir-codes/EcoTrack---Sustainable-Living-Community"><img src="https://img.shields.io/badge/Repository-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
