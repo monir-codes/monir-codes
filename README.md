@@ -108,12 +108,15 @@ Premium SaaS-style developer asset marketplace & learning platform.
 
 # 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monir-codes&theme=github_dark" width="100%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=monir-codes&show_icons=true&theme=github_dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monir-codes&layout=compact&theme=github_dark" />
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monir-codes&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monir-codes&theme=github_dark" width="49%" />
 </p>
 
 ---
