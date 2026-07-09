@@ -2,11 +2,11 @@
 
 <!-- ================= HERO BANNER ================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:2563EB,100:38BDF8&text=Md.%20Moniruzzaman&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:2563EB,100:38BDF8&text=Md.%20Moniruzzaman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Next.js%20Developer&descAlignY=58"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Next.js+15+%7C+React+%7C+Node.js;Building+Scalable+SaaS+Products;Exploring+AI+Integration;Clean+%26+Production+Ready+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer;Next.js+15+%7C+React+%7C+Node.js;Building+Scalable+SaaS+Products;Exploring+AI+Integration;Clean+%26+Production+Ready+Code" />
 
 </div>
 
@@ -107,8 +107,6 @@ Premium SaaS-style developer asset marketplace & learning platform.
 ---
 
 # 📊 GitHub Analytics
-
-## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monir-codes&theme=github_dark" width="100%" />
